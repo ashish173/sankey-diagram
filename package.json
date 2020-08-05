@@ -1,0 +1,14 @@
+{
+  "name": "@ashish173/sankey-diagram",
+  "main": "script@278.js",
+  "version": "278.0.0",
+  "homepage": "https://observablehq.com/@ashish173/sankey-diagram",
+  "author": {
+    "name": "Ashish Singh",
+    "url": "https://observablehq.com/@ashish173"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

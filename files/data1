@@ -1,0 +1,9 @@
+source,target,value
+New,Screen,120
+Screen,Interview,120
+New,Rejected,70
+Interview,Rejected,193
+Interview,Offer,50
+Offer,Hired,15
+Offer,Rejected,35
+Screen,Rejected,150

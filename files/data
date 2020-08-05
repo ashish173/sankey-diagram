@@ -1,0 +1,7 @@
+source,target,value
+New, Screen, 278
+New, Rejected, 856
+Screen, Interview, 142
+Screen, Rejected, 856
+Interview, Offer, 101
+Interview, Rejected, 35
